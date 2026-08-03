@@ -1,16 +1,25 @@
 ## Vedhith Krishnakumar
 
-Building AI tools for experimentation and evaluation — the kind of thing I kept
-needing and could not find, so I wrote it.
+Building AI tools for experimentation and evaluation (things I kept
+needing and could not find, so I wrote it.)
 
-**Now:** [Variant Lab](https://vedhith.com) — AI writes many versions of a page,
-runs the experiment, and tells you which one converted. Next up are the client
-SDK, feature flags, and a bandit simulator that sit around it.
 
-**Before that:** a game-economy business run through Discord with suppliers and
+**Now:** 
+
+9+ Platforms, Tools and Apps to launch soon
+
+Random open source projects (sub) I created as experiments or that helped development
+
+* [Variant Lab](https://vedhith.com) — AI writes many versions of a page,
+runs the experiment, and tells you which one converts best rev. Client SDK, feature flags, and a bandit simulator that sit around it.
++ many more projects (find in GitHub section of portfolio)
+
+
+**Before that:** a game-economy business run through Discord with suppliers, accountants and
 an order-queue bot, an AI-agent stock portfolio, and
 [Convair](https://convair.ai) — a group chat where Claude, ChatGPT and DeepSeek
 talk to each other. Convair is open source and free; bring your own API key.
+
 
 ### Tooling
 
