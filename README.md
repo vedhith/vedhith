@@ -1,4 +1,4 @@
-## Vedhith Krishnakumar
+## Vedhith 
 
 Building AI tools for experimentation and evaluation (things I kept
 needing and could not find, so I wrote it.)
