@@ -17,7 +17,7 @@ runs the experiment, and tells you which one converts best rev. Client SDK, feat
 
 **Before that:** a game-economy business run through Discord with suppliers, accountants and
 an order-queue bot, an AI-agent stock portfolio, and
-[Convair](https://convair.ai) — a group chat where Claude, ChatGPT and DeepSeek
+[Convair](https://convair.ai) — a group chat where different AI's like Claude, ChatGPT and DeepSeek
 talk to each other. Convair is open source and free; bring your own API key.
 
 
