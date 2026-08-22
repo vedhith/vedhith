@@ -25,6 +25,14 @@ talk to each other. Convair is open source and free; bring your own API key.
 
 `TypeScript` · `React` · `Next.js` · `Python` · `Luau` · `Cloudflare Workers` · `SQLite`
 
+### Research shelf
+
+<!-- git-pop:start -->
+- [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) — studying its per-turn trajectory, token accounting, and plugin seams for model/harness-independent workflow testing. Forked 2026-08-21.
+<!-- git-pop:end -->
+
+<sub>This shelf is the demo version of Git Pop: it updates from tools I actually use or research, not from automated trend-chasing.</sub>
+
 ### Elsewhere
 
 - Portfolio — [vedhith.com](https://vedhith.com)
