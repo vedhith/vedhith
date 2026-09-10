@@ -15,29 +15,19 @@ runs the experiment, and tells you which one converts best rev. Client SDK, feat
 + many more projects (find in GitHub section of portfolio)
 
 
-**Before that:** a game-economy business run through Discord with suppliers, accountants and
-an order-queue bot, an AI-agent stock portfolio, and
-[Convair](https://convair.ai) — a group chat where different AI's like Claude, ChatGPT and DeepSeek
-talk to each other. Convair is open source and free; bring your own API key.
+**Past:** 
+
+Co-Owner of TRFE, one of the biggest video game markets for buying in game items cheaply for $ (Now sold, No longer affiliated with current operations at all.)
+
+[Convair](https://convair.ai) — Upgrading workflows by letting different models with various harnesses talk through the workload in a group space with you. Run on your own machine for free with our default communication harness, import 3rd party .air file or build your own with ConvAir Studio, an Agent Communication Framework for Developers.
+<sub> *ConvAir has moved from open source to free closed product (BYOK + MCP that works with subs)
 
 
 ### Tooling
 
 `TypeScript` · `React` · `Next.js` · `Python` · `Luau` · `Cloudflare Workers` · `SQLite`
 
-### Research shelf
-
-<!-- git-pop:start -->
-- [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) — studying its per-turn trajectory, token accounting, and plugin seams for model/harness-independent workflow testing. Forked 2026-08-21.
-<!-- git-pop:end -->
-
-<sub>This shelf is the demo version of Git Pop: it updates from tools I actually use or research, not from automated trend-chasing.</sub>
-
-### Elsewhere
+### Links
 
 - Portfolio — [vedhith.com](https://vedhith.com)
 - Convair — [convair.ai](https://convair.ai)
-
-<sub>Repos go public when they run, pass their tests, and can be cloned and used
-by a stranger in five minutes. That is why there are fewer here than there are
-on my machine.</sub>
